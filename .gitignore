@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+InsPLAD-det/
+InsPLAD-det/train/
+InsPLAD-det/test/
+InsPLAD-det/val/
+
