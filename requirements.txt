@@ -2,3 +2,8 @@ transformers
 pillow
 torch
 datasets
+streamlit
+faiss-cpu
+scikit-image
+matplotlib
+scikit-learn
